@@ -1,0 +1,145 @@
+body {
+    font-family: 'Montserrat', 'Ruthligos', sans-serif;
+    box-sizing: border-box
+}
+
+.container img{
+    width: 300px;
+    height: 68px;
+    flex-shrink: 0;
+}
+
+.offcanvas-body ul li a {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.nav-btn {
+    width: 226px;
+    height: 59px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #005EB8;
+    border-style: none;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.carousel-caption h1 {
+    color: #303030;
+    font-family: Ruthligos;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.carousel-caption .caption-2 {
+    color: #303030;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;;
+}
+
+.carousel-caption p {
+    color: #303030;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 41px;
+}
+
+.header-btn {
+    width: 226px;
+    height: 59px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border-style: none;
+    background: #005EB8;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.custom-text h1{
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+}
+
+.service-1 {
+    width: 480px;
+    height: 136px;
+    border-radius: 10px;
+    background: #F9FBFF;
+}
+
+.service-1 h1 {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.service-1 p {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.service-1 img {
+    background-color: #005EB8;
+    border: 20px solid #005EB8;
+    border-radius: 20px;
+}
+
+.service-2 {
+    width: 480px;
+    height: 136px;
+    border-radius: 10px;
+    background: #F9FBFF;
+}
+
+.service-3 {
+    width: 480px;
+    height: 136px;
+    border-radius: 10px;
+    background: #F9FBFF;
+}
+
+.service-4 {
+    width: 480px;
+    height: 136px;
+    border-radius: 10px;
+    background: #F9FBFF;
+}
+
+.row {
+    align-items: center;
+}
